@@ -9,8 +9,10 @@
 - Dynamic Webpages and principles of design
 
 <!-- WakaTime Figures for Display -->
-<figure><embed src="https://wakatime.com/share/@7aa4f3de-48dc-4931-8fb5-ca4ce86d346b/d5ac48ff-09a6-4950-9a74-b014d0d40f55.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@7aa4f3de-48dc-4931-8fb5-ca4ce86d346b/beac7d26-34dd-4721-bd1a-a4753986627e.svg"></embed></figure>
+![Chiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=coxender&show_icons=true&theme=github_dark)
+
+[![Chiara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coxender&show_icons=true&theme=github_dark)](https://wakatime.com/@coxender)
+
 <!--
 **coxender/coxender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
