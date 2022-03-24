@@ -11,8 +11,8 @@
 <!-- WakaTime Figures for Display -->
 ![Chiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=coxender&show_icons=true&theme=github_dark)
 
-[![Chiara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coxender&show_icons=true&theme=github_dark)](https://wakatime.com/@coxender)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **coxender/coxender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
