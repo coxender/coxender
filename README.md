@@ -1,12 +1,12 @@
 # Chiara Oxender's GitHub
 
 ## Currently Working On:
-- Android Budgeting Software using React Native (BudgetPro)
-- Unity Project Mini Puzzle Game (Arcana)
+- A mock trading, buying, and selling webpage for children (hedgesite)
+- A simple task store and tagging app for further data analysis (task-aggregator)
 
 ## Currently Learning:
-- Python Tensorflow and NN basics
-- Dynamic Webpages and principles of design
+- Vite, Lit and TypeScript
+- C and Rust, for comparison and low level work.
 
 <!-- WakaTime Figures for Display -->
 <p>
