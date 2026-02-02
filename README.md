@@ -12,14 +12,14 @@
 <p>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=coxender&show_icons=true&theme=default">
-    <img alt="Nate's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=coxender&show_icons=true&theme=github_dark">
+    <img alt="Chiara's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=coxender&show_icons=true&theme=github_dark">
   </picture>
 </p>
 
 <p><a href="https://wakatime.com/@coxender">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=coxender&show_icons=true&theme=default">
-    <img alt="Nate's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=coxender&show_icons=true&theme=github_dark">
+    <img alt="Chiara's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=coxender&show_icons=true&theme=github_dark">
   </picture>
 </a></p>
 
